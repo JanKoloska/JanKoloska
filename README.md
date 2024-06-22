@@ -10,7 +10,7 @@ During the study I started working part time in a warehouse as an order picker. 
 
 One day I found a vacancy offer as a Junior Software Developer C# in the headquarters of my company on the company's website. Immediately I started writing an application. My boss submitted my application there with a personal recommendation. They invited me to a job interview but finally they employed another applicant. But my application attracted attention in another department where they also needed a software developer. Although they needed a fully experienced software developer they employed me for an internship for two months. After this time they decided to employ me for the next two years. And here I am on my way to a full software developer. In this two years I will learn as much as possible and beyond.
 
-Enough words for the moment. Let me show you more about my skills, working environments and platforms I work with:
+Enough words for the moment. Let me show you more about my skills and platforms I work with:
 
 ## Languages
 ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)![image](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
