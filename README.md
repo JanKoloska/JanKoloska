@@ -1,6 +1,6 @@
 # Hello World!
 ### My name is Jan-Hendrik Koloska
-I'm a passionate hobby programmer from Germany. I started programming in C# when I was 13 years old. Over the time I had several breaks where I tried out different other programming languages like Java, C++, Python but my great love is still C#.
+I'm a passionate hobby software developer from Germany. I started programming in C# when I was 13 years old. Over the time I had several breaks where I tried out different other programming languages like Java, C++, Python but my great love is still C#.
 
 
 After I finished school I started studying mathematics and later computer science at the university of Paderborn. But I had my issues with each of the courses of study. I lacked of mathematical intution. Finally I ended studying without a degree neither in mathematics nor in computer science.
