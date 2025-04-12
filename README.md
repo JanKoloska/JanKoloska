@@ -8,7 +8,9 @@ After I finished school I started studying mathematics and later computer scienc
 
 During the study I started working part time in a warehouse as an order picker. I also had different other tasks there. After I ended studying I turned in as a full time order picker in the same company. 
 
-One day I found a vacancy offer as a Junior Software Developer C# in the headquarters of my company on the company's website. Immediately I started writing an application. My boss submitted my application there with a personal recommendation. They invited me to a job interview but finally they employed another applicant. But my application attracted attention in another department where they also needed a software developer. Although they needed a fully experienced software developer they employed me for an internship for two months. After this time they decided to employ me for the next two years. And here I am on my way to a full software developer.
+One day I found a vacancy offer as a Junior Software Developer C# in the headquarters of my company on the company's website. Immediately I started writing an application. My boss submitted my application there with a personal recommendation. They invited me to a job interview but finally they employed another applicant. But my application attracted attention in another department where they also needed a software developer. Although they needed a fully experienced software developer they employed me for an internship for two months. After this time they decided to employ me for the next two years.
+
+The first year is over now. I learned a lot about the projects, database programming, and what not but there is still a lot more to learn. But I love it. I'm very glad to work here in Bottrop Germany. And I am still on my way to a full software developer.
 
 So feel free to browse through my different projects. Use them for inspiration and so forth.
 
