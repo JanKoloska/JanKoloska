@@ -20,7 +20,7 @@ But that’s not all — even in my free time, I keep learning and improving my 
 - Git & GitHub
 - Entity Framework Core
 - ASP.NET Core, especially Web API development
-- Clean Code principles
+- Clean Code
 - And much more
 
 At the moment, I’m also working on a private project where I’m building my own CI/CD pipeline to automate build, test, and deployment processes for my personal applications.  
