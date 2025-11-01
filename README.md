@@ -2,7 +2,7 @@
 ### My name is Jan-Hendrik Koloska
 I'm a passionate software developer from Germany. I started programming in C# when I was just 13 years old. Over the years, I explored other languages like Java, C++, and Python, but my great love is still C#.
 
-After finishing school, I began studying Mathematics and later Computer Science at the University of Paderborn. However, I encountered challenges - especially in developing mathematical intuition - and eventually decided to leave university without a degree.
+After finishing school, I began studying Mathematics and later Computer Science at the University of Paderborn. However, I encountered challenges — especially in developing mathematical intuition — and eventually decided to leave university without a degree.
 
 During my studies, I worked part-time as an order picker in a warehouse, taking on various responsibilities over time. After leaving university, I transitioned to full-time work in the same company. 
 
