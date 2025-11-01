@@ -23,6 +23,9 @@ But that’s not all — even in my free time, I keep learning and improving my 
 - Clean Code principles
 - And much more
 
+At the moment, I’m also working on a private project where I’m building my own CI/CD pipeline to automate build, test, and deployment processes for my personal applications.  
+This helps me deepen my understanding of software delivery, DevOps concepts, and automation workflows.
+
 I know there’s still a lot to learn, but I’m highly ambitious and have many goals. I aim to become an expert in:
 - Software Architecture
 - Software Quality
