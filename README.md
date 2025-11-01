@@ -1,32 +1,33 @@
 # Hello World!
 ### My name is Jan-Hendrik Koloska
-I'm a passionate software developer from Germany. I started programming in C# when I was 13 years old. Over the time I had several breaks where I tried out different other programming languages like Java, C++, Python but my great love is still C#.
+I'm a passionate software developer from Germany. I started programming in C# when I was just 13 years old. Over the years, I explored other languages like Java, C++, and Python, but my great love is still C#.
 
-After I finished school I started studying mathematics and later computer science at the university of Paderborn. However, I faced challenges in both fields of study that I could not solve. I struggled with mathematical intuition. Finally I ended studying without a degree.
+After finishing school, I began studying Mathematics and later Computer Science at the University of Paderborn. However, I encountered challenges - especially in developing mathematical intuition - and eventually decided to leave university without a degree.
 
-During the study I started working part time as an order picker in a warehouse. I also had different other tasks there. After I ended studying I turned in as a full time order picker in the same company.
+During my studies, I worked part-time as an order picker in a warehouse, taking on various responsibilities over time. After leaving university, I transitioned to full-time work in the same company. 
 
-One day I found a vacancy offer as a Junior Software Developer C# in the headquarters of my company on the company's website. Immediately I started writing an application. My boss submitted my application there with a personal recommendation. They invited me to a job interview but finally they employed another applicant. But my application attracted attention in another department where they also needed a software developer. Although they needed a fully experienced software developer they employed me for an internship for two months. After this time they decided to employ me for the next two years.
+One day, I discovered a Junior Software Developer (C#) position at the company's headquarters. I applied immediately, and my supervisor even submitted a personal recommendation on my behalf. Although I wasn’t selected for that particular position, my application caught the attention of another department that was also seeking a developer. Even though they were initially looking for an experienced professional, they offered me a two-month internship. Afterward, they decided to hire me for two more years.
 
-Now after one year I learned a lot about
--	The projects in our department
--	C# programming in our projects
--	Database programming with T-SQL
--	Designing reports with the SQL Server Reporting Services
--	Creating SSIS (SQL Server Integration Services) packages for our projects
+Now, after one year in this position, I’ve learned a great deal about:
+- The internal projects in our department
+- C# programming and software development
+- Database programming with T-SQL
+- Designing reports using SQL Server Reporting Services (SSRS)
+- Creating SQL Server Integration Services (SSIS) packages
 
-at work. But that’s not all even at home I continued learning about
--	PowerShell
--	Git & GitHub
--	Entity Framework Core
--	ASP.NET Core especially Web API development
--	Clean Code
+But that’s not all — even in my free time, I keep learning and improving my skills in:
+- PowerShell
+- Git & GitHub
+- Entity Framework Core
+- ASP.NET Core, especially Web API development
+- Clean Code principles
+- And a lot more
 
-Of course there is still so much to learn but my ambitions are very high and I have a lot of goals I want to achieve. For example I want to become an expert in
--	Software architecture
--	Software quality
--	.NET Development with C#
--	ASP.NET Core 
--	Entity Framework Core
+I know there’s still a lot to learn, but I’m highly ambitious and have many goals. I aim to become an expert in:
+- Software Architecture
+- Software Quality
+- .NET Development with C#
+- ASP.NET Core
+- Entity Framework Core
 
-And here I am still on my journey to become a full software developer. And even with this goal achieved the learning never ends ...
+I’m still on my journey to becoming a well-rounded software developer and architect — and even once that goal is reached, the learning never ends...
