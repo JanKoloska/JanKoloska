@@ -21,7 +21,7 @@ But that’s not all — even in my free time, I keep learning and improving my 
 - Entity Framework Core
 - ASP.NET Core, especially Web API development
 - Clean Code principles
-- And a lot more
+- And much more
 
 I know there’s still a lot to learn, but I’m highly ambitious and have many goals. I aim to become an expert in:
 - Software Architecture
