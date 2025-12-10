@@ -10,7 +10,7 @@ One day, I discovered a Junior Software Developer (C#) position at the company's
 
 Now, after one year in this position, I’ve learned a great deal about:
 - The internal projects in our department
-- C# programming and software development
+- More about C# programming and software development
 - Database programming with T-SQL
 - Designing reports using SQL Server Reporting Services (SSRS)
 - Creating SQL Server Integration Services (SSIS) packages
@@ -19,19 +19,16 @@ But that’s not all — even in my free time, I keep learning and improving my 
 - PowerShell
 - Git & GitHub
 - Entity Framework Core
-- ASP.NET Core, especially Web API development
+- ASP.NET Core
 - Clean Code
+- Software Architecture
 - And much more
-
-Currently, I’m also working on a private project where I’m building my own CI/CD pipeline for personal .NET applications.  
-It’s based on GitHub Actions and PowerShell scripts to automate building, testing, and deploying projects.  
-This allows me to gain practical experience with DevOps practices, workflow automation, and the concepts of Continuous Integration and Continuous Delivery in a self-directed environment.
 
 I know there’s still a lot to learn, but I’m highly ambitious and have many goals. I aim to become an expert in:
 - Software Architecture
 - Software Quality
 - .NET Development with C#
-- ASP.NET Core
-- Entity Framework Core
+- Technologies like ASP.NET Core and Entity Framework Core
+- Software Development with Domain-Driven Design and Test-Driven Design 
 
 I’m still on my journey to becoming a well-rounded software developer and architect — and even once that goal is reached, the learning never ends...
