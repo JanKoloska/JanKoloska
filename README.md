@@ -25,9 +25,10 @@ But that’s not all — even in my free time, I keep learning and improving my 
 - And much more
 
 I know there’s still a lot to learn, but I’m highly ambitious and have many goals. I aim to become an expert in:
+- Programming languages like C# and PowerShell
+- Database Programming with T-SQL
 - Software Architecture
 - Software Quality
-- .NET Development with C#
 - Technologies like ASP.NET Core and Entity Framework Core
 - Software Development with Domain-Driven Design and Test-Driven Design 
 
