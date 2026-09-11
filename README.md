@@ -11,3 +11,5 @@ I started programming in C# when I was 13 years old. Over the years, I also expl
 After finishing school, I studied Mathematics and later Computer Science at the University of Paderborn. Although I eventually decided to leave university without completing a degree, the experience strengthened my analytical thinking and confirmed that software development is the field I want to pursue professionally.
 
 During my studies, I worked part-time as an order picker in a warehouse and later transitioned into a full-time position at the same company.
+
+My professional software development career began when I applied for an internal Junior Software Developer position in my companies headquarters. Although I wasn't selected for that particular role, my application attracted the attention of another development department.
