@@ -17,3 +17,17 @@ My professional software development career began when I applied for an internal
 They were originally looking for an experienced developer but offered me the opportunity to prove myself through a two-month internship. That opportunity eventually turned into a two-year trainee position and became the starting point of my career as a software developer.
 
 Today, two and a half years later, I continue to work on enterprise software and have gained practical experience across different areas of software development.
+
+## Professional Experience
+
+My work has given me experience with technologies and topics including:
+
+- T-SQL and Microsoft SQL Server
+- Database-oriented application development
+- SQL Server Reporting Services (SSRS)
+- SQL Server Integration Services (SSIS)
+- Maintaining and extending existing enterprise applications
+- Working with large, long-lived codebases
+- Debugging, troubleshooting, and improving existing software
+
+Working with established enterprise systems has also taught me that software development is about much more than writing code. Maintainability, architecture, domain knowledge, technical debt, communication, and long-term design decisions are just as important.
