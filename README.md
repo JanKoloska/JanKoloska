@@ -13,3 +13,7 @@ After finishing school, I studied Mathematics and later Computer Science at the 
 During my studies, I worked part-time as an order picker in a warehouse and later transitioned into a full-time position at the same company.
 
 My professional software development career began when I applied for an internal Junior Software Developer position in my companies headquarters. Although I wasn't selected for that particular role, my application attracted the attention of another development department.
+
+They were originally looking for an experienced developer but offered me the opportunity to prove myself through a two-month internship. That opportunity eventually turned into a two-year trainee position and became the starting point of my career as a software developer.
+
+Today, two and a half years later, I continue to work on enterprise software and have gained practical experience across different areas of software development.
